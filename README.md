@@ -1,45 +1,4 @@
-# 🚀 React Vite Project
-
-This project is a **React** application built using **Vite** for fast development and optimized builds.
-
-## 📌 Features
-
-- ⚡ Lightning-fast development with Vite
-- 🎨 Tailwind CSS for modern styling
-- 🖼️ Custom SVG component
-- ✅ Fully responsive and optimized
-
-## 🏗️ Project Setup
-
-### Prerequisites
-
-Ensure you have the following installed on your system:
-
-- **Node.js** (Recommended: LTS version)
-- **npm** or **yarn**
-
-Check if you have **Node.js** and **npm** installed:
-
-```sh
-node -v
-npm -v
-```
-
-If not installed, download and install it from [Node.js official website](https://nodejs.org/).
-
-## 📥 Clone the Repository
-
-Clone the repository and navigate into the project directory:
-
-```sh
-g
-```
-
 ##  🚀 React Vite Project
-
-##
-
-
 
 This project is a React application built using Vite for fast development and optimized builds.
 
@@ -91,10 +50,8 @@ npm -v
 
 ### 📥 Clone the Repository
 Clone the repository and navigate into the project directory:
-```sh
- git clone https://github.com/tarang19/FLX_ONE.git
+ git clone [https://github.com/tarang19/FLX_ONE.git](https://github.com/tarang19/FLX_ONE.git)
 
-```
 
 
 
